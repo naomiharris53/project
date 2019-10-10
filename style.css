@@ -1,0 +1,16 @@
+body.state {
+	background: url(img/ms.jpeg) no-repeat center center grey;
+	background-size: cover;
+}
+
+body.martin {
+	background: url(img/08282014_ParsonsCenterPhotoShoot01_WEB.jpg) no-repeat center center grey;
+	background-size: cover;
+}
+
+.text-wrap {
+	width: 60%;
+	background-color: rgba(255, 255, 255, .7);
+	margin: 0 auto;
+	padding: 2%;
+}
